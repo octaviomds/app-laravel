@@ -18,6 +18,10 @@ CONFIGURATION  DE MONGODB:
 ![Mongodb](https://github.com/user-attachments/assets/99cdab48-5f40-4d88-85ae-9785265ed3ef)
 
 
+<img width="890" height="477" alt="Capture d’écran 2025-10-17 à 00 25 00" src="https://github.com/user-attachments/assets/89fb8928-5b99-4658-a435-b71aef838870" />
+
+
+
 INSTALLATION DE L'APPLICATION:
 
 
@@ -32,5 +36,6 @@ INSTALLATION DE L'APPLICATION:
 ![IMG_5198](https://github.com/user-attachments/assets/481099ed-2746-4502-96c0-85265c66fcec)
 
 ![IMG_5197 2](https://github.com/user-attachments/assets/b48a5773-c5a8-4ffa-97ca-f00de32dcb02)
+
 
 
