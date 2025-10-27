@@ -1,3 +1,11 @@
+
+
+
+![Docker commands](https://github.com/user-attachments/assets/dc06b54b-0ec2-44e3-aeeb-73cfbb438fc9)
+
+
+
+
 CONFIGURATION  DE MONGODB:
 
 <img width="668" height="268" alt="Capture d’écran 2025-10-16 à 23 55 07" src="https://github.com/user-attachments/assets/8a63439f-2852-4d31-9abe-d9c91ea5465c" />
@@ -42,3 +50,7 @@ INSTALLATION DE L'APPLICATION:
 
 ![MongoDB 2](https://github.com/user-attachments/assets/13fbce10-ec86-4a94-bde7-efcf4f949b77)
 ![MongoDB 2](https://github.com/user-attachments/assets/ef62fb92-564f-4aba-bc9e-03bac0750ecd)
+
+
+![Herd3](https://github.com/user-attachments/assets/e321ec7d-6474-4486-8beb-751cfa6e8ec3)
+
